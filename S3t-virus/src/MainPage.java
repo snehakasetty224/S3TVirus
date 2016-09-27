@@ -108,12 +108,12 @@ public class MainPage {
 		LoginPage.add(loginbutton);
 		
 		JLabel twitterbirdimage = new JLabel("");
-		twitterbirdimage.setIcon(new ImageIcon("/Users/sneha/Downloads/workspace/Karaf-Twitter/images/bird.png"));
+		twitterbirdimage.setIcon(new ImageIcon(MainPage.class.getResource("/images/bird.png")));
 		twitterbirdimage.setBounds(0, 0, 117, 108);
 		LoginPage.add(twitterbirdimage);
 		
 		JLabel profileimage = new JLabel("");
-		profileimage.setIcon(new ImageIcon("/Users/sneha/Downloads/workspace/Karaf-Twitter/images/bird.png"));
+		profileimage.setIcon(new ImageIcon(MainPage.class.getResource("/images/bird.png")));
 		profileimage.setBounds(22, 30, 105, 113);
 		HomePage.add(profileimage);
 		
@@ -186,7 +186,7 @@ public class MainPage {
 		TweetstextField.setColumns(10);
 		
 		JLabel Tweetslabel = new JLabel("");
-		Tweetslabel.setIcon(new ImageIcon("/Users/sneha/Downloads/workspace/Karaf-Twitter/images/Twt.png"));
+		Tweetslabel.setIcon(new ImageIcon(MainPage.class.getResource("/images/Twt.png")));
 		Tweetslabel.setBounds(381, 46, 48, 54);
 		HomePage.add(Tweetslabel);
 
@@ -211,7 +211,7 @@ public class MainPage {
 		ProfilePage.add(profilelogoutbtn);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("/Users/sneha/Downloads/workspace/Karaf-Twitter/images/bird.png"));
+		label.setIcon(new ImageIcon(MainPage.class.getResource("/images/bird.png")));
 		label.setBounds(0, 32, 105, 113);
 		ProfilePage.add(label);
 		
@@ -259,7 +259,7 @@ public class MainPage {
 		ProfilePage.add(ProfileTweetsTextField);
 		
 		JLabel ProfileTweetslabel = new JLabel("");
-		ProfileTweetslabel.setIcon(new ImageIcon("/Users/sneha/Downloads/workspace/Karaf-Twitter/images/Twt.png"));
+		ProfileTweetslabel.setIcon(new ImageIcon(MainPage.class.getResource("/images/Twt.png")));
 		ProfileTweetslabel.setBounds(345, 46, 48, 54);
 		ProfilePage.add(ProfileTweetslabel);
 		
