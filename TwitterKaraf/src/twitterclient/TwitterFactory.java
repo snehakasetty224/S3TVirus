@@ -51,7 +51,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get twitter timeline of default user
 	public TwitterTimeline getUserTimeline() 
@@ -77,7 +77,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get home timeline of default user
 	
@@ -103,7 +103,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get retweet timeline of default user
 	
@@ -129,7 +129,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get list of friend id of default user
 	public List<String> getFriendIds()
@@ -160,7 +160,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get list of friend names of default user
 	public List<String> getFriendNames()
@@ -172,7 +172,7 @@ public class TwitterFactory implements ITwitterFactory {
 		return friendNames;	
 	}
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get list of friends of default user
 	
@@ -205,7 +205,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get list of followers name of default user
 	public List<String> getFollowerNames()
@@ -219,7 +219,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get list of followers id of default user
 	public List<String> getFollowerIds()
@@ -251,7 +251,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get list of followers of default user
 	public List<TwitterUser> getFollowers(){
@@ -282,7 +282,7 @@ public class TwitterFactory implements ITwitterFactory {
 	}
 	
 	@Override
-	//Author: Tran.Pham
+	//Author: Tran.Pham & Sindhu
 	//Create date: Oct 1st, 2016
 	//Desc: get list of places which is trend now
 	public List<String> getTrends() {
