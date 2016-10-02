@@ -1,0 +1,94 @@
+{  
+   "in_reply_to_status_id_str":null,
+   "in_reply_to_status_id":null,
+   "coordinates":null,
+   "created_at":"Fri Sep 30 16:35:45 +0000 2016",
+   "truncated":false,
+   "in_reply_to_user_id_str":"2933075904",
+   "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+   "retweet_count":0,
+   "retweeted":false,
+   "geo":null,
+   "in_reply_to_screen_name":"prithvibravi",
+   "is_quote_status":false,
+   "entities":{  
+      "urls":[  
+
+      ],
+      "hashtags":[  
+
+      ],
+      "user_mentions":[  
+         {  
+            "indices":[  
+               0,
+               13
+            ],
+            "screen_name":"prithvibravi",
+            "id_str":"2933075904",
+            "name":"Prithvi BR",
+            "id":2933075904
+         }
+      ],
+      "symbols":[  
+
+      ]
+   },
+   "id_str":"781895319634096128",
+   "in_reply_to_user_id":2933075904,
+   "favorite_count":0,
+   "id":781895319634096128,
+   "text":"@prithvibravi Hi.. Good morning",
+   "place":null,
+   "contributors":null,
+   "lang":"en",
+   "user":{  
+      "utc_offset":null,
+      "friends_count":2,
+      "profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+      "listed_count":0,
+      "profile_background_image_url":null,
+      "default_profile_image":true,
+      "favourites_count":0,
+      "description":"",
+      "created_at":"Fri Sep 23 18:30:46 +0000 2016",
+      "is_translator":false,
+      "profile_background_image_url_https":null,
+      "protected":false,
+      "screen_name":"Tower_Sssindhup",
+      "id_str":"779387545645817856",
+      "profile_link_color":"2B7BB9",
+      "is_translation_enabled":false,
+      "id":779387545645817856,
+      "geo_enabled":false,
+      "profile_background_color":"F5F8FA",
+      "lang":"en",
+      "has_extended_profile":false,
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_text_color":"333333",
+      "verified":false,
+      "profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+      "time_zone":null,
+      "url":null,
+      "contributors_enabled":false,
+      "profile_background_tile":false,
+      "entities":{  
+         "description":{  
+            "urls":[  
+
+            ]
+         }
+      },
+      "statuses_count":8,
+      "follow_request_sent":false,
+      "followers_count":1,
+      "profile_use_background_image":true,
+      "default_profile":true,
+      "following":false,
+      "name":"Sindhu Patil GS",
+      "location":"",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "notifications":false
+   },
+   "favorited":false
+}
